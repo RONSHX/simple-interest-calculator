@@ -1,2 +1,4 @@
-# simple-interest-calculator
-A Bash script to calculate simple interest.
+2023 XYZ, Inc.
+
+
+
